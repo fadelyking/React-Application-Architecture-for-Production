@@ -1,0 +1,22 @@
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE unable to resolve dependency tree
+npm ERR! 
+npm ERR! While resolving: jobs-app@undefined
+npm ERR! Found: next@12.3.4
+npm ERR! node_modules/next
+npm ERR!   next@"^12.2.5" from the root project
+npm ERR! 
+npm ERR! Could not resolve dependency:
+npm ERR! peer next@"^13.5.0 || ^14.0.0" from @storybook/nextjs@8.0.4
+npm ERR! node_modules/@storybook/nextjs
+npm ERR!   dev @storybook/nextjs@"*" from the root project
+npm ERR! 
+npm ERR! Fix the upstream dependency conflict, or retry
+npm ERR! this command with --force or --legacy-peer-deps
+npm ERR! to accept an incorrect (and potentially broken) dependency resolution.
+npm ERR! 
+npm ERR! 
+npm ERR! For a full report see:
+npm ERR! /home/fadely/.npm/_logs/2024-03-22T02_28_44_765Z-eresolve-report.txt
+
+npm ERR! A complete log of this run can be found in: /home/fadely/.npm/_logs/2024-03-22T02_28_44_765Z-debug-0.log
